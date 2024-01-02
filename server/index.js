@@ -1,12 +1,16 @@
 const express = require("express")
-
+const { connection } = require("./config/db")
+require("dotenv").config()
+const port = process.env.PORT
 const app = express()
 
 app.use(express.json())
 
-app.listen(3030, ()=>{
+app.listen(port, async()=>{
     try{
-        console.log("Server is Running on Port 3030")
+        await connection
+        console.log("Connected to database.")
+        console.log(`Server is Running on Port ${port}.`)
     }catch(err){
         console.log(err)
     }
