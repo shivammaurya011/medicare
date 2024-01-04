@@ -10,7 +10,7 @@ app.listen(port, async()=>{
     try{
         await connection
         console.log("Connected to database.")
-        console.log(`Server is Running on Port ${port}.`)
+        console.log(`Server is Running on port ${port}.`)
     }catch(err){
         console.log(err)
     }
