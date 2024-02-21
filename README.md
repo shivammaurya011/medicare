@@ -9,6 +9,7 @@
             footer
     # server
         users
+            user
             admin
             doctor
             patient
