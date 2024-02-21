@@ -5,6 +5,7 @@
             heroSection 
             service
             doctors
+            contacts
             faq
             footer
     # server
