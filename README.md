@@ -3,6 +3,7 @@
     # clinte
     
         landing page
+        
             navbar
             heroSection 
             service
@@ -14,6 +15,7 @@
     # server
     
         users
+        
             user
             admin
             doctor
