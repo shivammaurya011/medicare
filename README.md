@@ -16,7 +16,6 @@
     # server
     
         users
-        
             user
             admin
             doctor
