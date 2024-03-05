@@ -4,7 +4,6 @@
     # clinte
     
         landing page
-        
             navbar
             heroSection 
             service
