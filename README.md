@@ -12,7 +12,6 @@
             footer
             
     # server
-    
         users
             user
             admin
