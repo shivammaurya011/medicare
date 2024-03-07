@@ -2,7 +2,6 @@
 # medicare
 
     # clinte
-    
         landing page
             navbar
             heroSection 
