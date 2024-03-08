@@ -9,7 +9,6 @@
             contacts
             faq
             footer
-            
     # server
         users
             user
