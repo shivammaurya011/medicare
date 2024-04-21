@@ -11,13 +11,13 @@ const MainRoute = () => {
   return (
     <Routes>
       <Route path='/' element={<Home/>}/>
-      <Route path='/home' element={<Home/>}/>
-      <Route path='/doctors' element={<Doctors/>}/>
-      <Route path='/doctors/:id' element={<DoctorsDetails/>}/>
+      <Route path='/home' element={<Home/>}/>                                                       ,ṁ
       <Route path='/signin' element={<Signin/>}/>
       <Route path='/signup' element={<Signup/>}/>
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/services' element={<Services/>}/>
+      <Route path='/doctors' element={<Doctors/>}/>
+      <Route path='/doctors/:id' element={<DoctorsDetails/>}/>
     </Routes>
   )
 }
