@@ -7,6 +7,7 @@
             doctors
             faq
             footer
+            
     # server
         users
             admin
