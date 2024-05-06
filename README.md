@@ -1,6 +1,7 @@
 # medicare
 
     # clinte
+    
         landing page
             navbar
             heroSection 
@@ -10,6 +11,7 @@
             footer
             
     # server
+    
         users
             admin
             doctor
